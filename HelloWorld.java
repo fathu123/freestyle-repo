@@ -1,4 +1,4 @@
-c class HelloWorld {
+public class HelloWorld {
 
   public static void main(String[] args) {
 
@@ -7,15 +7,3 @@ c class HelloWorld {
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
